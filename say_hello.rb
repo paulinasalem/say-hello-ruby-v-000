@@ -1,2 +1,3 @@
-def say_hello.#!/usr/bin/env ruby -wKU
-end 
+def say_hello(name = Ruby Programmer)
+  puts "Hello, #{name}"
+end
